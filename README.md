@@ -1,5 +1,15 @@
-## Visualizing Data with Python blog
+# How GDP influences Life Expectancy (or doesn't)
 
-This repository is being used to create a "blog post" presenting the results of my final assignment as part of (Codecademy)[https://www.codecademy.com]'s Visualizing Data with Python 6-week course.
+### Presenting data on GDP and life expectancy from the World Health Organization and the World Bank to try and identify the relationship between the GDP and life expectancy of six countries
 
-You can view the post at (insert url here).
+By: Matt Gilbert
+Tuesday, July 24th 2018
+
+---
+
+## Premise
+
+
+---
+
+This post is designed to present the results of my final assignment as part of [Codecademy](https://www.codecademy.com)'s Visualizing Data with Python 6-week course.
